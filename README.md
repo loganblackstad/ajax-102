@@ -1,4 +1,4 @@
-Exercise: AJAX 102
+<b>Exercise: AJAX 102</b>
 
 Let's turn it up a notch! We're going to make it so that you can select a specific breed of dog to show to the screen
 
