@@ -1,0 +1,16 @@
+img {
+  width: 300px;
+  margin: 5px 0px 5px 5px;
+  border: 2px solid grey;
+  border-radius: 4px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-doggo {
+  width: 100px;
+  padding: 20px;
+}
